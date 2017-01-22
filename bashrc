@@ -127,5 +127,5 @@ alias S=sudo
 alias c=clear
 set -o vi
 alias x=exit
-source /var/lib/gems/2.3.0/gems/tmuxinator-0.9.0/completion/tmuxinator.bash
- 
+source ~/tmuxinator.bash
+source ~/.bashrc.paths 
